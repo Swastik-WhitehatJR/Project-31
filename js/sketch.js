@@ -74,7 +74,7 @@ function draw() {
    }
 
    if(frameCount % 5 === 0){
-     particles.push(new Particle(random(width/2-100, width/2+100), 10,10));
+     particles.push(new Particle(random(width/2-100, width/2+100), -10,10));
    }
  
   for (var j = 0; j < particles.length; j++) {
