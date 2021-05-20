@@ -73,7 +73,7 @@ function draw() {
      
    }
 
-   if(frameCount % 5 === 0){
+   if(frameCount % 30 === 0){
      particles.push(new Particle(random(width/2-400, width/2+400), -10,10));
    }
  
