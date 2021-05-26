@@ -10,4 +10,4 @@ This contains the files that were edited and coded in the Project 31 in Whitehat
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m now learning to it on WhitehatJR.
 - 📫 You can reach me by mentioning me in github at @Swastik-WhitehatJR.
-- 💌 You can to mail me in swastikbhattacharjee.07@gmail.com (my email id
+- 💌 You can to mail me in swastikbhattacharjee.07@gmail.com (my email id)
